@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Proton Garant 10W-40, 1 L",
       "description": "Motorno olje",
-      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.jpeg",
+      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png",
       "sizes": {
-        "xs": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xs.jpeg",
-        "s": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-s.jpeg",
-        "m": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-m.jpeg",
-        "l": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-l.jpeg",
-        "xl": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.jpeg"
+        "xs":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png",
+        "s":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png",
+        "m":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png",
+        "l":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png",
+        "xl":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-01-xl.png"
       }
     },
     {
@@ -19,51 +19,51 @@
       "description": "Olje za menjalnike in diferenciale",
       "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
       "sizes": {
-        "xs": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xs.png",
-        "s": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-s.png",
-        "m": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-m.png",
-        "l": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-l.png",
-        "xl": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png"
+        "xs":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
+        "s":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
+        "m":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
+        "l":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
+        "xl":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-02-xl.png",
       }
     },
     {
       "id": 3,
       "name": "AdBlue®, 10 l",
       "description": "AdBlue za Diesel motorje",
-      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.jpeg",
+      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png",
       "sizes": {
-        "xs": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xs.jpeg",
-        "s": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-s.jpeg",
-        "m": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-m.jpeg",
-        "l": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-l.jpeg",
-        "xl": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.jpeg"
+        "xs":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png",
+        "s":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png",
+        "m":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png",
+        "l":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png",
+        "xl":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-03-xl.png"
       }
     },
     {
       "id": 4,
       "name": "Gozdarski vitel Krpan",
       "description": "Serije-85dh",
-      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.jpg",
+      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
       "sizes": {
-        "xs": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xs.jpg",
-        "s": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-s.jpg",
-        "m": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-m.jpg",
-        "l": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-l.jpg",
-        "xl": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.jpg"
+        "xs":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
+        "s":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
+        "m":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
+        "l":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
+        "xl":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-04-xl.png",
       }
     },
     {
       "id": 5,
       "name": "Ščipalne klešče KS 200 Krpan",
       "description": "Klešče za odrez lesa",
-      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
+      "url": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.png",
       "sizes": {
-        "xs": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xs.jpg",
-        "s": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-s.jpg",
-        "m": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-m.jpg",
-        "l": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-l.jpg",
-        "xl": "https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg"
+        "xs":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
+        "s":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
+        "m":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
+        "l":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
+        "xl":"https://raw.githubusercontent.com/JUREXT/mock-api-images/main/images/img-05-xl.jpg",
       }
     }
   ]
-}
+  }
